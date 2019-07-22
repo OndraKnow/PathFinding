@@ -1,6 +1,6 @@
 # Java pathfinding
 
-This java pathfinding program was build with standord libraries to to learn.
+This java pathfinding program was build with stanford libraries to to learn.
 
 # Usage
 
